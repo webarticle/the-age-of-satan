@@ -1,13 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-<url>
-  <loc>http://webarticle.github.io/the-age-of-satan/</loc>
-  <lastmod>2015-03-07T16:15:16+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
+    <url>
+        <loc>http://webarticle.github.io/the-age-of-satan/</loc>
+        <lastmod>2015-05-09T12:25:19+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>http://webarticle.github.io/the-age-of-satan/sand.html</loc>
+        <lastmod>2015-05-09T12:25:19+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://webarticle.github.io/the-age-of-satan/the-age-of-satan.html</loc>
+        <lastmod>2015-05-09T12:25:19+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://webarticle.github.io/the-age-of-satan/vampires-at-dawn.html</loc>
+        <lastmod>2015-05-09T12:25:19+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://webarticle.github.io/the-age-of-satan/the-eye-of-the-salyun.html</loc>
+        <lastmod>2015-05-09T12:25:19+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://webarticle.github.io/the-age-of-satan/sheeh-s-ploner.html</loc>
+        <lastmod>2015-05-09T12:25:19+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
 </urlset>
